@@ -1,6 +1,4 @@
-/*
- * Justin Sciortino 40247931
- * Stuart Thiel COEN 244*/
+//Justin Sciortino 
 #include <iostream>
 #include "TA.h"
 #include <vector>
